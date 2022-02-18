@@ -1,3 +1,7 @@
 noi dung 1
 
+<<<<<<< HEAD
 Noi dung chinh sua boi mac
+=======
+Noi dung chinh sua boi window
+>>>>>>> f7771e845eb8afdbecc19fef109ad92e37b53c24
