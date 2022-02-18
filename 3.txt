@@ -1,7 +1,6 @@
 Noi dung 3
 
-<<<<<<< HEAD
 Noi dung duoc cap nhap boi window
-=======
 Noi dung duoc cap nhap boi mac
->>>>>>> d735bfbe05b09f25e834227dc693130677c5a786
+
+alo window
