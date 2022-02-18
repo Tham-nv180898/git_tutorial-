@@ -3,4 +3,8 @@ Noi dung 3
 Noi dung duoc cap nhap boi window
 Noi dung duoc cap nhap boi mac
 
+<<<<<<< HEAD
 alo window
+=======
+alo mac
+>>>>>>> 71685b2 (M11)
